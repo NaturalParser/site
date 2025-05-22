@@ -1,0 +1,10 @@
+{
+  "SpanNodeGraph": "SpanNodeGraph 片段节点图",
+  "ParseTask": "ParseTask 解析任务",
+  "ItemMatcher": "ItemMatcher 项目匹配器",
+  "ItemOperator": "ItemOperator 项目操作器",
+  "RuleStuff": "RuleStuff 规则工具",
+  "NPAnimal": "NPAnimal 牧场动物",
+
+  "other": "其他"
+}

@@ -1,0 +1,8 @@
+{
+  "LongTextSplitter": "自定义 LongTextSplitter",
+  "Tokenizer": "自定义 Tokenizer",
+  "Matcher": "自定义 Matcher",
+  "Operator": "自定义 Operator",
+
+  "other": "其他"
+}

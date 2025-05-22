@@ -1,0 +1,10 @@
+{
+  "Annotator": "Annotator",
+
+  "---1": { "type": "separator" },
+
+  "AutoFold": "AutoFold",
+  "ButtonGroup": "ButtonGroup",
+
+  "---!": { "display": "hidden" }
+}

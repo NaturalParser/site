@@ -30,5 +30,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/NaturalParser' }
     ]
-  }
+  },
+  markdown: {
+    math: true
+  },
 })

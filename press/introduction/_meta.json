@@ -1,0 +1,9 @@
+{
+  "start": "快速上手",
+  "mechanism": "工作原理",
+  "writeRules": "如何编写规则",
+  "custom": "自定义功能",
+  "API": "API速查",
+
+  "---!": { "display": "hidden" }
+}

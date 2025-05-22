@@ -1,0 +1,11 @@
+{
+  "Basic": "基础类型",
+  "Span": "Span 片段",
+  "MatchStep": "MatchStep 匹配步骤",
+  "ParseTask": "ParseTask 匹配任务",
+  "Context": "Context 上下文",
+  "Rule": "Rule 规则",
+  "Ranch": "Ranch 牧场相关",
+
+  "---!": { "display": "hidden" }
+}

@@ -1,0 +1,14 @@
+{
+
+  "LongTextSplitter": "LongTextSplitter 长文本分割器",
+  "Tokenizer": "Tokenizer 符号提取器",
+  "Parser": "Parser 解析器",
+  "ActionAgent": "ActionAgent 行为代理",
+
+
+  "NPService": "NPService 服务",
+  "NPEngine": "NPEngine 引擎",
+  "NPRanch": "NPRanch 牧场",
+
+  "---!": { "display": "hidden" }
+}
