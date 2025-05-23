@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Start Now
-      link: /list
+      link: /introduction/start
     - theme: alt
       text: API Reference
-      link: /list
+      link: /introduction/API
 
 # features:
 #   - title: Feature A

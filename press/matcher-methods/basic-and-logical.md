@@ -1,7 +1,7 @@
 
 # 底层及逻辑 MMs
 
-#### match [#match]
+#### match {#match}
 
 ```js
   { "name": "match",
@@ -15,7 +15,7 @@
   },
 ```
 
-#### notMatch [#notMatch]
+#### notMatch {#notMatch}
 
 ```js
   { "name": "notMatch",
@@ -29,7 +29,7 @@
   },
 ```
 
-#### and | all [#and]
+#### and | all {#and}
 
 ```js
   { "name": "fnAll",
@@ -59,7 +59,7 @@
   },
 ```
 
-#### any | or | some [#any]
+#### any | or | some {#any}
 
 ```js
   { "name": "fnAny",
@@ -86,7 +86,7 @@
   },
 ```
 
-#### none [#none]
+#### none {#none}
 
 ```js
   { "name": "fnNone",
@@ -113,7 +113,7 @@
   },
 ```
 
-#### not [#not]
+#### not {#not}
 
 ```js
   { "name": "fnNot",
@@ -131,7 +131,7 @@
   },
 ```
 
-#### hit [#hit]
+#### hit {#hit}
 
 ```js
   { "name": "fnHit",
@@ -147,7 +147,7 @@
   },
 ```
 
-#### true [#true]
+#### true {#true}
 
 ```js
   { "name": "true",
@@ -160,7 +160,7 @@
   },
 ```
 
-#### false [#false]
+#### false {#false}
 
 ```js
   { "name": "false",

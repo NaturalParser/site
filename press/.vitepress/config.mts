@@ -89,7 +89,12 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/NaturalParser' }
-    ]
+    ],
+    outline: {
+      /** @default 2 */
+      level: [2, 6],
+      label: '目录',
+    },
   },
   markdown: {
     math: true
